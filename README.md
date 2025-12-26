@@ -1,6 +1,5 @@
-# SkillSnap
-
 <div align="center">
+# SkillSnap
 
 **AI-Powered Resume Analysis & Career Development Platform**
 
@@ -743,4 +742,5 @@ For support, email support@impetus-skillsnap.com or open an issue in the reposit
 [⬆ Back to Top](#impetus---skillsnap)
 
 </div>
+
 
