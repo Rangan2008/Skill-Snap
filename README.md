@@ -1,6 +1,6 @@
-<div align="center">
-**SkillSnap**
+SkillSnap
 
+<div align="center">
 **AI-Powered Resume Analysis & Career Development Platform**
 
 Transform your career journey with intelligent resume analysis, skill gap identification, and personalized learning roadmaps.
